@@ -24,3 +24,6 @@ Created an interactive temperature converter that converts values between Celsiu
 
 ## Screenshots
 Temperature Converter
+![Page](task3/screenshot/page.png)
+
+![Result](task3/screenshot/result.png)
